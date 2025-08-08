@@ -28,6 +28,7 @@ correction_data.py takes in a reference model, and calculates the correction nee
 test_data.py generates 1,000,000 test data points using the latin hypercube method and a fixed seed of 12345.
 
 ### src
+`get_equations.ipynb` is used to convert a hall of fame file to get the corresponding equations and constants
 
 `cubic_spline.ipynb` and `poly_interp.ipynb` were experiments to see if a standard spline or interpolation could fit the data well, and if so with how many terms.
 `Parameter_fit.ipynb` was used to try to further optimize the constant parameters, no additional results as symbolicregression.jl already does this.
