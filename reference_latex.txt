@@ -1,0 +1,1 @@
+c_{0} \left(c_{1} + c_{19} d^{c_{3}} + c_{2} \left(c_{14} \left(c_{15} + c_{16} d \left(c_{17} + c_{18} d\right)^{c_{3}}\right)^{c_{3}} + c_{3} \left|{c_{4} + c_{5} \left(c_{6} + c_{7} d^{c_{3}}\right)^{c_{3}} + c_{8} d^{c_{9}} \left(c_{10} + c_{11} d\right)^{c_{3}} \left(c_{12} + c_{13} d\right)^{c_{3}}}\right|\right)^{c_{3}}\right)^{c_{11}}

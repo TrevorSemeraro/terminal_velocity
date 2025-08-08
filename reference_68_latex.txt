@@ -1,0 +1,1 @@
+\left(c_{0} d + c_{1} \left(c_{2} + c_{3} d^{c_{4}} + c_{5} \left(c_{10} \left(c_{11} + c_{12} d\right)^{c_{4}} + c_{4} \left|{c_{6} + c_{7} \left(c_{8} + c_{9} d^{c_{4}}\right)^{c_{4}}}\right|\right)^{c_{4}}\right)^{c_{4}}\right)^{c_{13}}

@@ -1,0 +1,1 @@
+\left|{t^{c_{0}} \left(c_{1} + c_{2} \left|{t}\right| + \left|{t + \left(c_{10} + c_{11} ρ^{c_{4}} \left(c_{12} + t\right)\right) \left(c_{8} + c_{9}^{c_{0}}\right) \left(c_{7} d^{c_{4}} ρ^{c_{4}} + t\right)^{c_{4}} + \left(c_{3} + d\right)^{c_{4}} \left(c_{5} + c_{6} t\right)}\right|\right)^{c_{13}}}\right|

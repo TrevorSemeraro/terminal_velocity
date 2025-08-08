@@ -37,7 +37,7 @@ test_data.py generates 1,000,000 test data points using the latin hypercube meth
 `load_2stage.ipynb` takes in reference and correction, plots it against beard at standard temperature and pressure. Plots relative error distributions.
 `pareto_front.ipynb` loads the hall of fame train files and plots the pareto fronts of the reference and correction models.
 
-`model_to_fortran.ipynb` takes in a model and a max complexity and outputs the corresponding fortran function
+`model_to_fortran.ipynb` takes in a model and a ma6x complexity and outputs the corresponding fortran function
 `load.f90` contains comparative models such as beard, and the final trained models and measures their execution time and accuracy results
 compiled with `gfortran -Ofast -march=native load.f90 -o load`
 
